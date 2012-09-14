@@ -1,0 +1,91 @@
+D:\Tridion\Coding\Compound Templating\World - XSLT Mediator\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.Extensions.Mediators.dll
+D:\Tridion\Coding\Compound Templating\World - XSLT Mediator\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.Extensions.Mediators.pdb
+D:\Tridion\Coding\Compound Templating\World - XSLT Mediator\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.ContentManager.dll
+D:\Tridion\Coding\Compound Templating\World - XSLT Mediator\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.ContentManager.Publishing.dll
+D:\Tridion\Coding\Compound Templating\World - XSLT Mediator\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.ContentManager.Templating.dll
+D:\Tridion\Coding\Compound Templating\World - XSLT Mediator\Source\Tridion.Extensions.Mediators\obj\Release\ResolveAssemblyReference.cache
+D:\Tridion\Coding\Compound Templating\World - XSLT Mediator\Source\Tridion.Extensions.Mediators\obj\Release\Tridion.Extensions.Mediators.dll
+D:\Tridion\Coding\Compound Templating\World - XSLT Mediator\Source\Tridion.Extensions.Mediators\obj\Release\Tridion.Extensions.Mediators.pdb
+D:\Tridion\Coding\Compound Templating\World - XSLT Mediator\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.ContentManager.TemplateTypes.dll
+C:\Dropbox\DEV\Base Functionality\Templating Base Project\Source\Tridion\Extensions\Mediators\Tridion.Extensions.Mediators\obj\Release\ResolveAssemblyReference.cache
+C:\Dropbox\DEV\Base Functionality\Templating Base Project\Source\Tridion\Extensions\Mediators\Tridion.Extensions.Mediators\obj\Release\Tridion.Extensions.Mediators.dll
+C:\Dropbox\DEV\Base Functionality\Templating Base Project\Source\Tridion\Extensions\Mediators\Tridion.Extensions.Mediators\obj\Release\Tridion.Extensions.Mediators.pdb
+C:\Dropbox\DEV\Base Functionality\Templating Base Project\Source\Tridion\Extensions\Mediators\Tridion.Extensions.Mediators\bin\Release\Tridion.Extensions.Mediators.dll
+C:\Dropbox\DEV\Base Functionality\Templating Base Project\Source\Tridion\Extensions\Mediators\Tridion.Extensions.Mediators\bin\Release\Tridion.Extensions.Mediators.pdb
+C:\temp\temp\XSLT Mediator 2011\Source\Tridion.Extensions.Mediators\obj\Release\ResolveAssemblyReference.cache
+C:\temp\temp\XSLT Mediator 2011\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.Extensions.Mediators.dll
+C:\temp\temp\XSLT Mediator 2011\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.Extensions.Mediators.pdb
+C:\temp\temp\XSLT Mediator 2011\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.Common.dll
+C:\temp\temp\XSLT Mediator 2011\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.ContentManager.Common.dll
+C:\temp\temp\XSLT Mediator 2011\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.ContentManager.dll
+C:\temp\temp\XSLT Mediator 2011\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.ContentManager.Publishing.dll
+C:\temp\temp\XSLT Mediator 2011\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.ContentManager.Templating.dll
+C:\temp\temp\XSLT Mediator 2011\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.Logging.dll
+C:\temp\temp\XSLT Mediator 2011\Source\Tridion.Extensions.Mediators\obj\Release\Tridion.Extensions.Mediators.dll
+C:\temp\temp\XSLT Mediator 2011\Source\Tridion.Extensions.Mediators\obj\Release\Tridion.Extensions.Mediators.pdb
+C:\SDL\XSLT Mediator 2011\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.Extensions.Mediators.dll
+C:\SDL\XSLT Mediator 2011\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.Extensions.Mediators.pdb
+C:\SDL\XSLT Mediator 2011\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.Common.dll
+C:\SDL\XSLT Mediator 2011\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.ContentManager.Common.dll
+C:\SDL\XSLT Mediator 2011\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.ContentManager.dll
+C:\SDL\XSLT Mediator 2011\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.ContentManager.Publishing.dll
+C:\SDL\XSLT Mediator 2011\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.ContentManager.Templating.dll
+C:\SDL\XSLT Mediator 2011\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.Logging.dll
+C:\SDL\XSLT Mediator 2011\Source\Tridion.Extensions.Mediators\obj\Release\ResolveAssemblyReference.cache
+C:\SDL\XSLT Mediator 2011\Source\Tridion.Extensions.Mediators\obj\Release\Tridion.Extensions.Mediators.dll
+C:\SDL\XSLT Mediator 2011\Source\Tridion.Extensions.Mediators\obj\Release\Tridion.Extensions.Mediators.pdb
+C:\SDL\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.Extensions.Mediators.dll
+C:\SDL\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.Extensions.Mediators.pdb
+C:\SDL\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.Common.dll
+C:\SDL\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.ContentManager.Common.dll
+C:\SDL\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.ContentManager.dll
+C:\SDL\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.ContentManager.Publishing.dll
+C:\SDL\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.ContentManager.Templating.dll
+C:\SDL\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.Logging.dll
+C:\SDL\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\obj\Release\ResolveAssemblyReference.cache
+C:\SDL\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\obj\Release\Tridion.Extensions.Mediators.dll
+C:\SDL\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\obj\Release\Tridion.Extensions.Mediators.pdb
+C:\SDL\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\charsets.dll
+C:\SDL\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\IKVM.OpenJDK.ClassLibrary.dll
+C:\SDL\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\IKVM.Runtime.dll
+C:\SDL\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\saxon9.dll
+C:\SDL\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\saxon9api.dll
+C:\SDL\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\saxon9api.netmodule
+D:\My Documents\SDL_Projects\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.Extensions.Mediators.dll
+D:\My Documents\SDL_Projects\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.Extensions.Mediators.pdb
+D:\My Documents\SDL_Projects\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\charsets.dll
+D:\My Documents\SDL_Projects\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\IKVM.OpenJDK.ClassLibrary.dll
+D:\My Documents\SDL_Projects\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\IKVM.Runtime.dll
+D:\My Documents\SDL_Projects\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\saxon9.dll
+D:\My Documents\SDL_Projects\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\saxon9api.dll
+D:\My Documents\SDL_Projects\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.Common.dll
+D:\My Documents\SDL_Projects\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.ContentManager.Common.dll
+D:\My Documents\SDL_Projects\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.ContentManager.dll
+D:\My Documents\SDL_Projects\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.ContentManager.Publishing.dll
+D:\My Documents\SDL_Projects\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.ContentManager.Templating.dll
+D:\My Documents\SDL_Projects\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.Logging.dll
+D:\My Documents\SDL_Projects\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\saxon9api.netmodule
+D:\My Documents\SDL_Projects\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\obj\Release\ResolveAssemblyReference.cache
+D:\My Documents\SDL_Projects\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\obj\Release\Tridion.Extensions.Mediators.dll
+D:\My Documents\SDL_Projects\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\obj\Release\Tridion.Extensions.Mediators.pdb
+D:\My Documents\SDL_Projects\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\log4net.dll
+D:\My Documents\SDL_Projects\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\log4net.xml
+C:\Users\cguo\Dropbox\docs\VSWorkspace\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.Extensions.Mediators.dll
+C:\Users\cguo\Dropbox\docs\VSWorkspace\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.Extensions.Mediators.pdb
+C:\Users\cguo\Dropbox\docs\VSWorkspace\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\charsets.dll
+C:\Users\cguo\Dropbox\docs\VSWorkspace\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\IKVM.OpenJDK.ClassLibrary.dll
+C:\Users\cguo\Dropbox\docs\VSWorkspace\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\IKVM.Runtime.dll
+C:\Users\cguo\Dropbox\docs\VSWorkspace\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\log4net.dll
+C:\Users\cguo\Dropbox\docs\VSWorkspace\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\saxon9.dll
+C:\Users\cguo\Dropbox\docs\VSWorkspace\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\saxon9api.dll
+C:\Users\cguo\Dropbox\docs\VSWorkspace\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.Common.dll
+C:\Users\cguo\Dropbox\docs\VSWorkspace\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.ContentManager.Common.dll
+C:\Users\cguo\Dropbox\docs\VSWorkspace\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.ContentManager.dll
+C:\Users\cguo\Dropbox\docs\VSWorkspace\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.ContentManager.Publishing.dll
+C:\Users\cguo\Dropbox\docs\VSWorkspace\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.ContentManager.Templating.dll
+C:\Users\cguo\Dropbox\docs\VSWorkspace\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\Tridion.Logging.dll
+C:\Users\cguo\Dropbox\docs\VSWorkspace\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\log4net.xml
+C:\Users\cguo\Dropbox\docs\VSWorkspace\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\bin\Release\saxon9api.netmodule
+C:\Users\cguo\Dropbox\docs\VSWorkspace\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\obj\Release\ResolveAssemblyReference.cache
+C:\Users\cguo\Dropbox\docs\VSWorkspace\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\obj\Release\Tridion.Extensions.Mediators.dll
+C:\Users\cguo\Dropbox\docs\VSWorkspace\XSLT Mediator 2011 SAXON\Source\Tridion.Extensions.Mediators\obj\Release\Tridion.Extensions.Mediators.pdb

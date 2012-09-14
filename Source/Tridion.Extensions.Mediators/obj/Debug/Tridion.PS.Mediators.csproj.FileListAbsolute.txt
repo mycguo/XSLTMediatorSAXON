@@ -1,0 +1,5 @@
+C:\Documents and Settings\yniran\Desktop\Tridion.PS.Mediators\Tridion.PS.Mediators\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\yniran\Desktop\Tridion.PS.Mediators\Tridion.PS.Mediators\bin\Debug\Tridion.PS.Mediators.dll
+C:\Documents and Settings\yniran\Desktop\Tridion.PS.Mediators\Tridion.PS.Mediators\bin\Debug\Tridion.PS.Mediators.pdb
+C:\Documents and Settings\yniran\Desktop\Tridion.PS.Mediators\Tridion.PS.Mediators\obj\Debug\Tridion.PS.Mediators.dll
+C:\Documents and Settings\yniran\Desktop\Tridion.PS.Mediators\Tridion.PS.Mediators\obj\Debug\Tridion.PS.Mediators.pdb

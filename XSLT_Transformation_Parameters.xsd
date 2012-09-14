@@ -1,0 +1,55 @@
+<xsd:schema targetNamespace="uuid:2B24F77E-74BC-4E51-8D82-B7A9A95B0C53" elementFormDefault="qualified" xmlns:tcmapi="http://www.tridion.com/ContentManager/5.0/TCMAPI" xmlns:tcm="http://www.tridion.com/ContentManager/5.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:tcmi="http://www.tridion.com/ContentManager/5.0/Instance" xmlns="uuid:2B24F77E-74BC-4E51-8D82-B7A9A95B0C53">
+	<xsd:annotation>
+		<xsd:appinfo>
+			<tcm:Labels>
+				<tcm:Label ElementName="InputItem" Metadata="false">Input item name</tcm:Label>
+				<tcm:Label ElementName="OutputItem" Metadata="false">Ouput item name</tcm:Label>
+				<tcm:Label ElementName="packageParams" Metadata="false">Get Parameters from Package</tcm:Label>
+				<tcm:Label ElementName="parPrefix" Metadata="false">Package Items name prefix (i.e. par_)</tcm:Label>
+				<tcm:Label ElementName="outputType" Metadata="false">Ouput format type</tcm:Label>
+			</tcm:Labels>
+		</xsd:appinfo>
+	</xsd:annotation>
+	<xsd:import namespace="http://www.tridion.com/ContentManager/5.0/Instance"/>
+	<xsd:element name="Parameters">
+		<xsd:complexType>
+			<xsd:sequence>
+				<xsd:element name="InputItem" minOccurs="0" maxOccurs="1" type="xsd:normalizedString"/>
+				<xsd:element name="OutputItem" minOccurs="0" maxOccurs="1" type="xsd:normalizedString"/>
+				<xsd:element name="packageParams" minOccurs="0" maxOccurs="1">
+					<xsd:annotation>
+						<xsd:appinfo>
+							<tcm:listtype>select</tcm:listtype>
+							<tcm:Size>1</tcm:Size>
+							<tcm:DefaultTextValue>false</tcm:DefaultTextValue>
+						</xsd:appinfo>
+					</xsd:annotation>
+					<xsd:simpleType>
+						<xsd:restriction base="xsd:normalizedString">
+							<xsd:enumeration value="true"/>
+							<xsd:enumeration value="false"/>
+						</xsd:restriction>
+					</xsd:simpleType>
+				</xsd:element>
+				<xsd:element name="parPrefix" minOccurs="0" maxOccurs="1" type="xsd:normalizedString"/>
+				<xsd:element name="outputType" minOccurs="0" maxOccurs="1">
+					<xsd:annotation>
+						<xsd:appinfo>
+							<tcm:listtype>select</tcm:listtype>
+							<tcm:Size>1</tcm:Size>
+							<tcm:DefaultTextValue>xhtml</tcm:DefaultTextValue>
+						</xsd:appinfo>
+					</xsd:annotation>
+					<xsd:simpleType>
+						<xsd:restriction base="xsd:normalizedString">
+							<xsd:enumeration value="Xml"/>
+							<xsd:enumeration value="Html"/>
+							<xsd:enumeration value="xhtml"/>
+							<xsd:enumeration value="Get From Template"/>
+						</xsd:restriction>
+					</xsd:simpleType>
+				</xsd:element>
+			</xsd:sequence>
+		</xsd:complexType>
+	</xsd:element>
+</xsd:schema>
