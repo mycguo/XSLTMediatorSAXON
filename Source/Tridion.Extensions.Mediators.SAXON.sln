@@ -8,16 +8,6 @@ Global
 	GlobalSection(TestCaseManagementSettings) = postSolution
 		CategoryFile = Tridion.Extensions.Mediators.vsmdi
 	EndGlobalSection
-	GlobalSection(SourceCodeControl) = preSolution
-		SccNumberOfProjects = 3
-		SccProjectUniqueName0 = Tridion.Extensions.Mediators\\Tridion.Extensions.Mediators.csproj
-		SccProjectName0 = $/Tridion.Extensions.Mediators.root/Tridion.Extensions.Mediators/Tridion.Extensions.Mediators
-		SccLocalPath0 = Tridion.Extensions.Mediators
-		SccProjectUniqueName1 = XSLTMediatorRun\\XSLTMediatorRun.csproj
-		SccProjectName1 = $/Tridion.Extensions.Mediators.root/Tridion.Extensions.Mediators/XSLTMediatorRun
-		SccLocalPath1 = XSLTMediatorRun
-		SccLocalPath2 = .
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Debug|Mixed Platforms = Debug|Mixed Platforms
